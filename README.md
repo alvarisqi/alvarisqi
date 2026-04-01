@@ -15,7 +15,7 @@ I build and share projects related to web and mobile development, coursework, an
 ---
 
 ### About Me
-- 🎓 Graduated from Lambung Mangkurat University (Completed my studies!)
+- 🎓 Graduated from Lambung Mangkurat University (Completed my formal studies! But there is still much more to go!)
 - 💻 Passionate about software development and engineering
 - 🚀 (Hopefully) Always exploring and building
 
